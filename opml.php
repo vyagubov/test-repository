@@ -10,8 +10,6 @@
  */
 
 class OPML {
-
-	var $a;
 	var $file;
 	var $feeds;
 	var $template_file;
